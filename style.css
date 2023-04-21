@@ -1,0 +1,145 @@
+/* Design General */
+
+body {
+    font-size: 18px;
+    color: #4d6770;
+    font-family: 'Lora', serif;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #4546a2;
+    font-size: 30px;
+    padding: 20px 20px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-weight: 600;
+    color: #e88a0e;
+    font-size: 22px;
+  }
+  
+  h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  
+  p {
+    padding-bottom: -10px;
+    margin-bottom: 20px;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  .card-white {
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 30px;
+    margin: 10px 0;
+    box-shadow: 0 10px 100px rgba(0, 0, 0, 0.4);
+  }
+  
+  #intro {
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+    padding: 20px 20px;
+  }
+  #intro2 {
+    padding: 20px 20px;
+  }
+
+
+  #card2 {
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+  }
+
+  #card3 {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+
+  #card4, #card5, #card6 {
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+  }
+
+  #card4 
+ul {
+    padding-left: 0;
+}
+ul li {
+    list-style-position: inside;
+}
+
+#card5
+ul {
+    padding-left: 0;
+}
+ul li {
+    list-style-position: inside;
+}
+
+  .container {
+    width: 700px;
+    margin: 20px auto;
+  }
+  
+  #Paul-Emmanuel-picture {
+    width: 200px;
+    border-radius: 50%;
+  }
+  
+  #Marketing-Digital {
+    width: 400px;
+    border-radius: 5%;
+  }
+  
+  .btn-blue {
+    display: inline-block;
+    background-color: #6263D8;
+    color: white;
+    border-radius: 15px;
+    padding: 15px 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+  }
+
+  .btn-blue:hover {
+    background-color: white;
+    color: #6263D8;
+    border : solid;
+  }
+  
+
+  .list-inline {
+    list-style: none;
+    text-align: center;
+  }
+  
+  .list-inline li {
+    display: inline;
+  }
+  
+  .list-inline i {
+    font-size: 50px;
+    color: #6263D8;
+    letter-spacing: 30px;
+  }
+  
+  .list-inline i:hover {
+    color: #6366ff;
+  }
+  
